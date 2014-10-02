@@ -15,7 +15,7 @@ e
 
 # Outside Code
 1. Wordlist was pulled from the bash copy of Webster's Dictionary <br />
-found at /usr/share/dict/words. I selected all of the five letter words <br />
+found at /usr/share/dict/words. I selected all of the four letter words <br />
 in the dictionary using the command
 grep '^[a-z][a-z][a-z][a-z]$'
 
