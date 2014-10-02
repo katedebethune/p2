@@ -1,6 +1,6 @@
 <?php
-error_reporting(-1); # Report all PHP errors
-ini_set('display_errors', 1);
+//error_reporting(-1); # Report all PHP errors
+//ini_set('display_errors', 1);
 ?>
 
 <!DOCTYPE html>
@@ -27,15 +27,18 @@ ini_set('display_errors', 1);
 		<option>3</option>
 		<option>4</option>
 		<option>5</option>
+		<option>6</option>
+		<option>7</option>
+		<option>8</option>
 	</select>
     <br/>
-    Add a symbol: <input type='radio' name='number' value='1'>yes
+    Add a symbol: <input type='radio' name='number' value='1' checked='checked'>yes
      	       <input type='radio' name='number' value='0'>no
     <br/>
-    Add a number: <input type='radio' name='symbol' value='1'>yes
+    Add a number: <input type='radio' name='symbol' value='1' checked='checked'>yes
      	       <input type='radio' name='symbol' value='0'>no
     <br/>
-    Capitalize first word: <input type='radio' name='uc' value='1'>yes
+    Capitalize first word: <input type='radio' name='uc' value='1'checked='checked'>yes
      	       <input type='radio' name='uc' value='0'>no
     <br> 
     </div>
@@ -66,3 +69,4 @@ echo pickWords($_POST['num_words'], $_POST['number'], $_POST['symbol'], $_POST['
 
 </body>
 </html>
+
