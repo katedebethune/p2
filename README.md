@@ -16,7 +16,8 @@ within the content of its landing page. <br />
 # Details for instructor / TA
 
 # Outside Code
-1. Wordlist is courtesy of https://www.englishclub.com/vocabulary/common-words-5000.htm <br />
+1. Wordlist is courtesy of <br />
+https://www.englishclub.com/vocabulary/common-words-5000.htm <br />
 It was converted it from html to txt using sed commands. <br />
 2. html reset code is courtesy of <br />
    http://meyerweb.com/eric/tools/css/reset/ <br />
