@@ -18,7 +18,7 @@ within the content of its landing page. <br />
 # Outside Code
 1. Wordlist is courtesy of <br />
 https://www.englishclub.com/vocabulary/common-words-5000.htm <br />
-It was converted it from html to txt using sed commands. <br />
+It was converted from html to txt using sed commands. <br />
 2. html reset code is courtesy of <br />
    http://meyerweb.com/eric/tools/css/reset/ <br />
    v2.0 | 20110126 <br />
