@@ -10,8 +10,10 @@ http://p2.kdeb-csci-e15.me
 Project demonstrates competence with basic PHP coding skills. <br />
 
 # Demo information
-Straightforward, description of how to use the app is contained <br />
+Straightforward: description of how to use the app is contained <br />
 within the content of its landing page. <br />
+<br />
+Site will be demonstrated in section on Oct 8. <br />
 
 # Details for instructor / TA <br />
 The post method is being used for the form.
