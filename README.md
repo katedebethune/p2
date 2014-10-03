@@ -17,10 +17,9 @@ Project demonstrates competence with basic PHP coding skills <br />
 1. Wordlist is courtesy of https://www.englishclub.com/vocabulary/common-words-5000.htm <br />
 It was converted it from html to txt using sed commands. <br />
 2. html reset code is courtesy of <br />
-/* http://meyerweb.com/eric/tools/css/reset/ <br />
+   http://meyerweb.com/eric/tools/css/reset/ <br />
    v2.0 | 20110126 <br />
    License: none (public domain) <br />
-*/ <br />
 3. CSS framework courtesy of bootstrap: <br />
 	http://getbootstrap.com <br />
   
