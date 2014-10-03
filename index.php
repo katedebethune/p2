@@ -10,95 +10,13 @@
     
     <?php require 'wg_logic.php'; ?>
     <!-- Bootstrap -->
+    <link href = "css/pm_reset.css rel="stylesheet">
     <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/styles.css"	   rel="stylesheet">
 
     
    <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
-    <style>
-      * {
-      		/*border-width: 1px; 
-			border-style: dashed; */
-	  }
-      body {
-        font-family: 'Raleway', sans-serif;
-      }
-	
-		
-		h1, h2, h3, h4, p {
-			text-align:center;
-			/*border-width: 1px;*/
-			/*border-style: dashed;*/
-			
-		}
-	
-		.container {
-			width:50%;
-			min-width:600px;
-			margin-bottom:50px;
-			border-width: 1px;
-			border-style: solid;
-			border-color: red; 
-		}	
-		
-		img {
-			display:block;
-			margin:auto;
-			width:100%;
-			border: 4px solid #000;
-		}
-		
-		.pw_form {
-			background-color: #9BD644; 
-			color: #333;
-			/* margin: 12px; */ 
-			display:block;
-			margin: 0 auto;
-			padding: 20px; 
-			/* width: 550px; */
-			border-color: #333; 
-			border-style: solid;
-			border-width: 0px 0px 5px 0px;
-		}
-		
-		.pw_output h2 {
-			background-color: #E6F291; 
-			color: #333;
-			display:block;
-			margin: 0 auto;
-			padding: 20px;
-			text-align: center;
-		}
-		
-		.left h1,h2,h3,h4, p {
-			text-align:left;
-		}
-		
-		
-		.callout {
-			font-weight:bold;
-			
-		}
-		
-		li {
-			padding: 0px 0px 0px 10px;
-		}	
-		
-		.radio_buttons {
-			display: block;
-			font-size: 1.25em;
-			width: 400px;
-			/* float: left; */
-			clear: none;
-			padding: .1em 0 .1em 0;
-		}
-		
-		input {
-			background: white;
-			padding: .25em;
-		}
-			
-	
-	</style>
+   
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -162,13 +80,16 @@
     	<li>first letter capitalized</li> </p>
     <p>Press submit and you'll see a new password you can use.</p>
     
-    <h2>What is an XKCD-style password generator anyway?</h2>
+    <h2>What are XKCD-style passwords?</h2>
     <p>Randall Munroe, the creator of the XKCD comic, put forth the idea that 
     passwords made up of multiple, memorable words, would be much easier for
     humans to remember and much harder for computers to hack. By contrast, the
     average password composed of one, commonly-used, English word, with a few
     additional symbols and numbers is quite hard for the average human to
     remember while being relatively easy for a computer to crack. </p>
+    <p>So, XKCD-style passwords are thought to be easy for humans to remember and 
+    hard for computers to guess. The comic has created a lot of <a href="http://www.reddit.com/r/askscience/comments/wmzrz/is_xkcd_right_about_password_strength">interesting debate</a>
+    on this topic.</p>
     
      
     
