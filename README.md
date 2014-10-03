@@ -7,9 +7,11 @@ October 3, 2014<br />
 http://p2.kdeb-csci-e15.me
 
 # Description of project
-Project demonstrates competence with basic PHP coding skills <br />
+Project demonstrates competence with basic PHP coding skills. <br />
 
 # Demo information
+Straightforward, description of how to use the app is contained <br />
+within the content of its landing page. <br />
 
 # Details for instructor / TA
 
