@@ -14,7 +14,7 @@ Straightforward, description of how to use the app is contained <br />
 within the content of its landing page. <br />
 
 # Details for instructor / TA <br />
-I chose post for the form method.
+The post method is being used for the form.
 
 # Outside Code
 1. Wordlist is courtesy of <br />
