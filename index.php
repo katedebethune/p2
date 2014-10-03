@@ -45,14 +45,14 @@
 	</select>
     <br/>
     
-    Add a symbol:  <input type='radio' name='number' value='1' checked='checked'>yes
-     	       <input type='radio' name='number' value='0'>no
+    Add a symbol:  <input type='radio' name='number' value='1' >yes
+     	       <input type='radio' name='number' value='0' checked='checked'>no
     <br/>
-    Add a number: <input type='radio' float='right' name='symbol' value='1' checked='checked'>yes
-     	       <input type='radio' name='symbol' value='0'>no
+    Add a number: <input type='radio' float='right' name='symbol' value='1'>yes
+     	       <input type='radio' name='symbol' value='0' checked='checked'>no
     <br/>
-    Capitalize first word:  <input type='radio' float='right' name='uc' value='1'checked='checked'>yes
-     	       <input type='radio' name='uc' value='0'>no
+    Capitalize first word:  <input type='radio' float='right' name='uc' value='1'>yes
+     	       <input type='radio' name='uc' value='0' checked='checked'>no
     <br> 
     <input type="submit">
     </div>
@@ -90,8 +90,6 @@
     <p>So, XKCD-style passwords are thought to be easy for humans to remember and 
     hard for computers to guess. The comic has created a lot of <a href="http://www.reddit.com/r/askscience/comments/wmzrz/is_xkcd_right_about_password_strength">interesting debate</a>
     on this topic.</p>
-    
-     
     
     <img src = "img/xkcd_img.png" alt="xkcd_img" >
     <p>Image courtesy of <a href="http://xkcd.com/license.html">xkcd.com</a></p>
