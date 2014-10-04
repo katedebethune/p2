@@ -17,6 +17,7 @@ Site will be demonstrated in section on Oct 8. <br />
 
 # Details for instructor / TA <br />
 The post method is being used for the form.
+Hi Kathrine, I forgot to validate before submitting this morning. Ran through the W3C validator just now (10/4 at 12:30 PM) and cleaned up a small number of things. Thanks, Kate
 
 # Outside Code
 1. Wordlist is courtesy of <br />
