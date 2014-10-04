@@ -74,12 +74,12 @@
     
     <h2>How does the password generator work?</h2>
     <p>Generate an XKCD-style password by selecting among the following options: </p>
-    	<ul>
+    	
 			<li>number of words</li>
 			<li>a symbol</li>
 			<li>a number</li>
 			<li>first letter capitalized</li>
-    	</ul>
+    <br />
     
     	
     <p>Press submit and you'll see a new password you can use.</p>
