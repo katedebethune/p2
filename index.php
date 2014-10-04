@@ -10,7 +10,7 @@
     
     <?php require 'wg_logic.php'; ?>
     <!-- Bootstrap -->
-    <link href = "css/pm_reset.css rel="stylesheet">
+    <link href = "css/pm_reset.css" rel="stylesheet">
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/styles.css"	   rel="stylesheet">
 
